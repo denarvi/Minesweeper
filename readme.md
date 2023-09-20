@@ -24,7 +24,7 @@ To play the game, follow these installation steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/minesweeper-game.git
+   git clone https://github.com/denarvi/minesweeper-game.git
    ```
 
 2. Navigate to the project directory:
